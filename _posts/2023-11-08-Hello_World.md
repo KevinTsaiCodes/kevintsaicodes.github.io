@@ -1,9 +1,5 @@
 ---
-redirect_from: /_posts/first_commit/
 title: "Hello World"
-tags: 
-    - First Commit
-    - Hello World
+tags:
 ---
-
-### This is my first post, how exciting!
+This is my first post, how exciting!
