@@ -26,6 +26,8 @@ Data Scientist and Computer Vision
 
 ## Experience
 
+<!-- .slide vertical=true -->
+
 - **Research Assistant**, Academia Sinica Center for Digital Cultures, June 2021 - August 2022.
 - **Teaching Assistant**, Lecture Introduction to Image Processing, Computer Science Program, Yuan Ze University, September 2022 - June 2023.
 - **Laboratory Leader**, Media Applications Laboratory, Yuan Ze University, May 2023 - Present.
