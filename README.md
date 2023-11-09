@@ -8,12 +8,8 @@ Data Scientist and Computer Vision
 
 <!-- .slide vertical=true -->
 
-- Address
-  - **R1411B, Building 1, Yuan Ze University, 135 Yuan-Tung Rd., Chung-Li, Taiwan**
 - Homepage
   - **<https://kevintsaicodes.github.io>**
-
-<!-- .slide vertical=true -->
 
 - LinkedIn
   - **[Wei-Chun Kevin Tsai](https://www.linkedin.com/in/wei-chun-tsai-b64aaa1a7)**
