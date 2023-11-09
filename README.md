@@ -50,8 +50,8 @@ Data Scientist and Computer Vision
 ## Tools
 
 <!-- .slide vertical=true -->
-- **PyCharm**, Expert
 - **Python**, Expert
+- **SQL**, Expert
 - **$\LaTeX$**, Expert
 - **Markdown**, Medium
 - **Version Control**, Medium
@@ -64,10 +64,11 @@ Data Scientist and Computer Vision
   - Scikit-Learn
   - PyTorch
   - OpenCV
-  
-- **$LaTex$**
-  - Overleaf
-  - MiKTeX
+  - Web Scrapying
+ 
+- **SQL**
+  - MSSQL
+  - MySQL
 
 - **Version Control**
   - Git
