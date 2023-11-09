@@ -19,8 +19,6 @@ Data Scientist and Computer Vision
   - **[Wei-Chun Kevin Tsai](https://www.linkedin.com/in/wei-chun-tsai-b64aaa1a7)**
 - E-mail:
   - **[weichun.tsai2000@gmail.com](mailto:weichun.tsai2000@gmail.com)**
-- Curriculum Vitae
-  - [Link]()
     
 <!-- .slide -->
 
