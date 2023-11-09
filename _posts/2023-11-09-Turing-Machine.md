@@ -1,5 +1,5 @@
 ---
-title: "Turing Machine"
+title: "Turing Machines"
 tags:
   - Computation Theory
 ---
