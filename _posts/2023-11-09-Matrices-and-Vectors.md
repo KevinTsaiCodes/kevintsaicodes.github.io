@@ -46,3 +46,7 @@ I_{3} =
   0 & 0 & 1
 \end{bmatrix}
 $$
+
+#### Properties of Matrix Addition and Scalar Mulitplication
+Let _A_, _B_, and _C_ be $m x n$, and let _s_ and  _t_ be any scalars. Then
+- A + B = B + A
