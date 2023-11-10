@@ -13,6 +13,7 @@ A matrix (_plural, matrices_) is a rectangular array of scalars. In general, we 
 A zero matrix or null matrix is a matrix all of whose entries are zero.
 
 $$
+O = 
 \begin{bmatrix}
   0 & 0 & 0 \\
   0 & 0 & 0 \\
@@ -47,6 +48,21 @@ I_{3} =
 \end{bmatrix}
 $$
 
+### Rotation Matrix
+
+$$
+\begin{bmatrix}
+  \cos \theta & - \sin \theta \\
+  \sin \theta & \cos \theta
+\end{bmatrix}
+$$
+
 #### Properties of Matrix Addition and Scalar Mulitplication
 Let _A_, _B_, and _C_ be $m x n$, and let _s_ and  _t_ be any scalars. Then
 - A + B = B + A
+- (A + B) + C = A + (B + C)
+- A + O = A
+- A + (-A) = O
+- (st)A = s(tA)
+- s(A + B) = sA + sB
+- (s + t)A = sA + tA
