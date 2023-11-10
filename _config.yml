@@ -608,7 +608,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             <br/>
             <i class="fab fa-creative-commons-by fa-fw"></i>
             <a
-              href="https://creativecommons.org/licenses/by/4.0/deed.zh"
+              href="https://creativecommons.org/licenses/by/4.0/deed.en"
               rel="license">
               CC BY 4.0
             </a>
