@@ -59,7 +59,7 @@ Data Scientist and Computer Vision
   - Scikit-Learn
   - PyTorch
   - OpenCV
-  - Web Scrapying (BeautifulSoup, Scrapy, Selenium)
+  - Web Scrapying (Scrapy, Selenium)
  
 - **SQL**
   - MSSQL
