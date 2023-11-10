@@ -11,6 +11,7 @@ A matrix (_plural, matrices_) is a rectangular array of scalars. In general, we 
 
 ### Zero-Matrix
 A zero matrix or null matrix is a matrix all of whose entries are zero.
+
 $$
 \begin{bmatrix}
   0 & 0 & 0 \\
