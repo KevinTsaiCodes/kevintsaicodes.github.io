@@ -19,3 +19,6 @@ $$
   0 & 0 & 0
 \end{bmatrix}
 $$
+
+### Identity Matrix
+An identity Matrix is the matrix which is a square matrix where the diagonal consist of ones and the other elements are all zeros. It is also called as a _Unit Matrix_ or _Elementary Matrix_.
