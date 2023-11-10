@@ -22,3 +22,27 @@ $$
 
 ### Identity Matrix
 An identity Matrix is the matrix which is a square matrix where the diagonal consist of ones and the other elements are all zeros. It is also called as a _Unit Matrix_ or _Elementary Matrix_.
+
+$$
+I_{1} = 
+\begin{bmatrix}
+  1
+\end{bmatrix}
+$$
+
+$$
+I_{2} = 
+\begin{bmatrix}
+  1 & 0 \\
+  0 & 1 \\
+\end{bmatrix}
+$$
+
+$$
+I_{3} = 
+\begin{bmatrix}
+  1 & 0 & 0 \\
+  0 & 1 & 0 \\
+  0 & 0 & 1
+\end{bmatrix}
+$$
