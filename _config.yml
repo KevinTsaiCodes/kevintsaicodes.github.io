@@ -595,7 +595,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             enable: true
             prepend: <i class="fa-solid fa-calendar-day fa-fw"></i>
           wordcount: # 统计全文字数
-            enable: true
+            enable: false
             prepend: <i class="fa-solid fa-file-word fa-fw"></i>
             unit: Alphabet Letters
           readtime: # 计算文章阅读时间
