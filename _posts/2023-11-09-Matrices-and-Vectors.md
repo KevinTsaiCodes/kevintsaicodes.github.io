@@ -60,6 +60,18 @@ $$
 \end{bmatrix}
 $$
 
+**Matrix Multiplication**
+
+- A: $m \times n$ matrix
+- B: $n \times p$ matrix
+- C: $m \times p$ matrix
+
+That is, 
+
+$$
+C = AB 	\Longleftrightarrow	c_{ij} = a_{ij}b_{ij} + a_{2j}b_{2j} + ... + a_{nj}b_{nj} \Rightarrow	c_{ij} = \Sigma_{k=1}^{n}a_{kj}b_{kj}
+$$
+
 **Properties of Matrix Addition and Scalar Mulitplication**
 
 Let _A_, _B_, and _C_ be $m x n$, and let _s_ and  _t_ be any scalars. Then
