@@ -4,6 +4,30 @@ tags:
   - Linear Algebra
 ---
 
+# Scalar
+A scalar is a real number. We often use the term scalar in the context of vectors or matrices, to stress that a variable such as _a_ is just a real number and not a vector or matrix.
+
+# Vector
+A vector is a quantity or phenomenon that has two independent properties: magnitude and direction.
+
+**Row Vector**
+
+$$
+\begin{bmatrix}
+  2 & 4 & 1 
+\end{bmatrix}
+$$
+
+**Column Vector**
+
+$$
+\begin{bmatrix}
+  13\\
+  4\\
+  53
+\end{bmatrix}
+$$
+
 # Matrix
 
 **Definition**
