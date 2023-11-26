@@ -27,6 +27,6 @@ What is _virtual environment_ in Python? A Python virtual environment, often abb
 
 **Activate/Deactivate Virtual Environment**
 
-`conda activate venv-name` (for _virtual environment_ **activate**)
+`conda activate venv-name` (**activate** _virtual environment_)
 
-`conda deactivate venv-name` (for _virtual environment_ **deactivate**)
+`conda deactivate venv-name` (**deactivate** _virtual environment_)
