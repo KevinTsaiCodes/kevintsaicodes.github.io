@@ -14,6 +14,14 @@ Before installation, you need to download the dependencies required by PyTorch (
 
 After downloading and completing the installation of Anaconda and PyCharm, I will now guide you through the installation of PyTorch with CUDA.
 
-**Create Virtual Environment**
+**Virtual Environment**
 
 What is _virtual environment_ in Python? A Python virtual environment, often abbreviated as `venv`, is a self-contained directory that contains a Python interpreter along with standard libraries and other supporting files. The purpose of creating a virtual environment is to isolate Python projects and their dependencies. This helps to avoid conflicts between different projects that may require different versions of libraries or dependencies.
+
+**Create VENV**
+
+1. Open Anaconda Prompt
+2. Type `conda create --name venv-name python=edition` for _virtual environment_ creation.
+   For example, if I want to create a virtual environment named `myenv` with Python `version 3.5`, I would need to type:
+   `conda create --name myenv python=3.5`
+3. 
