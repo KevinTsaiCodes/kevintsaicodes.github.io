@@ -18,7 +18,7 @@ After downloading and completing the installation of Anaconda and PyCharm, I wil
 
 What is _virtual environment_ in Python? A Python virtual environment, often abbreviated as `venv`, is a self-contained directory that contains a Python interpreter along with standard libraries and other supporting files. The purpose of creating a virtual environment is to isolate Python projects and their dependencies. This helps to avoid conflicts between different projects that may require different versions of libraries or dependencies.
 
-**Create VENV**
+**Create Virtual Environment**
 
 1. Open Anaconda Prompt
 2. Type `conda create --name venv-name python=edition` for _virtual environment_ creation.
@@ -26,3 +26,4 @@ What is _virtual environment_ in Python? A Python virtual environment, often abb
    
    `conda create --name myenv python=3.5`
 
+**Activate/Deactivate Virtual Environment**
