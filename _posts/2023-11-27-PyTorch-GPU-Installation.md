@@ -21,9 +21,12 @@ What is _virtual environment_ in Python? A Python virtual environment, often abb
 **Create Virtual Environment**
 
 1. Open Anaconda Prompt
-2. Type `conda create --name venv-name python=edition` for _virtual environment_ creation.
-   For example, if I want to create a virtual environment named `myenv` with Python `version 3.5`, I would need to type:
+2. Type `conda create --name venv-name python=edition` for _virtual environment_ creation. For example, if I want to create a virtual environment named `myenv` with Python `version 3.5`, I would need to type (in the Anaconda Prompt):
    
    `conda create --name myenv python=3.5`
 
 **Activate/Deactivate Virtual Environment**
+
+`conda activate venv-name` (for _virtual environment_ activate)
+
+`conda deactivate venv-name` (for _virtual environment_ deactivate)
