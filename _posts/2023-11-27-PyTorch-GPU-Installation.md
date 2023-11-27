@@ -70,4 +70,6 @@ Type the following command in the Anaconda Prompt
 
 🥳 You have successfully installed PyTorch (with CUDA). Now, proceed to enjoy your deep learning project with PyTorch in PyCharm. Remember to activate your self-defined _virtual environment_.
 
-**Cheat Sheet of PyTorch**: [Link](https://hackmd.io/@rh0jTfFDTO6SteMDq91tgg/HkDRHKLrU)
+Cheat Sheet of PyTorch: [HackMD Link](https://hackmd.io/@rh0jTfFDTO6SteMDq91tgg/HkDRHKLrU)
+
+PyTorch Tutorial: [YouTube Link](https://youtu.be/kQeezFrNoOg?si=cBh32N130iCLzQ4r)
