@@ -30,3 +30,13 @@ What is _virtual environment_ in Python? A Python _virtual environment_, often a
 `conda activate venv-name` (**activate** _virtual environment_)
 
 `conda deactivate venv-name` (**deactivate** _virtual environment_)
+
+**PyTorch (with CUDA) Installation**
+
+After activating your self-defined virtual environment in the Anaconda command prompt, the installation command for PyTorch (with CUDA) is as follows:
+
+    pip3 install torch torchvision torchtext torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+⚠️**Need to be noticed!**
+
+**Cheat Sheet of PyTorch**: [Link](https://hackmd.io/@rh0jTfFDTO6SteMDq91tgg/HkDRHKLrU)
