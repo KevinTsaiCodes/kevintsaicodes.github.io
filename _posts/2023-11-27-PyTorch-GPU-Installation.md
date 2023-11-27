@@ -39,19 +39,19 @@ After activating your self-defined _virtual environment_ in the Anaconda command
 
 ⚠️ **Need to be noticed!** ⚠️ 
 
-1. `torchtext`:
+`torchtext`:
 
 - Purpose: torchtext is a PyTorch library specifically designed for `natural language processing` (NLP) tasks.
 - Functionality: It provides tools and utilities for loading and preprocessing text data, making it easier to work with datasets commonly used in NLP tasks, such as language modeling, text classification, and machine translation.
 - Features: Tokenization, vocabulary management, and data loading tools for textual data.
 
-2. `torchvision`:
+`torchvision`:
 
 - Purpose: torchvision is a PyTorch library focused on `computer vision` tasks.
 - Functionality: It contains various utilities for image and video data processing, as well as pre-trained models for common computer vision tasks.
 - Features: Image transformations, dataset loaders for popular vision datasets (e.g., ImageNet), and pre-trained models for tasks like image classification, object detection, and segmentation.
 
-3. `torchaudio`:
+`torchaudio`:
 
 - Purpose: torchaudio is a PyTorch library designed for working with `audio data`.
 - Functionality: It provides tools for loading, processing, and analyzing audio signals. It includes datasets and models suitable for tasks like speech recognition and audio classification.
