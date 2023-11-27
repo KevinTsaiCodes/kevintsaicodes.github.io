@@ -57,5 +57,17 @@ After activating your self-defined _virtual environment_ in the Anaconda command
 - Functionality: It provides tools for loading, processing, and analyzing audio signals. It includes datasets and models suitable for tasks like speech recognition and audio classification.
 - Features: Audio data loading, signal processing operations, and pre-trained models for audio-related tasks.
 
+**Installation Validation**
+
+Type the following command in the Anaconda Prompt
+
+    Python
+    >>> import torch
+    >>> torch.cuda.is_available()
+    >>> True (If PyTorch (with CUDA) is installed successfully, it will return True.)
+
+**Congratulations**
+
+🥳 You have successfully installed PyTorch (with CUDA). Now, proceed to enjoy your deep learning project with PyTorch in PyCharm. Remember to activate your self-defined _virtual environment_.
 
 **Cheat Sheet of PyTorch**: [Link](https://hackmd.io/@rh0jTfFDTO6SteMDq91tgg/HkDRHKLrU)
