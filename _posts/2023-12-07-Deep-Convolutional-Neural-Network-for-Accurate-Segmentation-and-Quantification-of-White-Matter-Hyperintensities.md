@@ -1,9 +1,7 @@
-## Kevin Tsai
+---
+title: "Deep Convolutional Neural Network for Accurate Segmentation and Quantification of White Matter Hyperintensities"
+tags: 
+- Literature Review
+---
 
-Data Scientist and Computer Vision
-
-<!-- .slide -->
-
-## Contact
-
-<!-- .slide vertical=true -->
+Review Slide: [LINK](https://reurl.cc/GK3QZZ)
