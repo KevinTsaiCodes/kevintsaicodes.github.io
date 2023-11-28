@@ -4,4 +4,4 @@ tags:
 - Literature Review
 ---
 
-Review Slide: [LINK](https://reurl.cc/GK3QZZ)
+Review Slide: [PPT LINK](https://reurl.cc/GK3QZZ)
