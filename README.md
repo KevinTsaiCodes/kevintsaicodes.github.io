@@ -33,8 +33,8 @@ Data Scientist and Python Expert
 <!-- .slide vertical=true -->
 
 - **Conference**
-  - Actor-Critic Bilateral Filter for High-Stability Edge-Preserving T2-FLAIR MRI Image Denoising (2023 14th Asian Oceanian Congress of Neuroradiology, Singapore)
-  - Using ResNet to Utilize 4-Class T2-FLAIR Slice Classification Based on the Cholinergic Pathways Hyperintensities Scale for Pathological Aging (2024 ISMRM & ISMRT Annual Meeting & Exhibition, Singapore) 
+  - Actor-Critic Bilateral Filter for High-Stability Edge-Preserving T2-FLAIR MRI Image Denoising (2023 14th Asian Oceanian Congress of Neuroradiology, Singapore, Poster)
+  - [Using ResNet to Utilize 4-Class T2-FLAIR Slice Classification Based on the Cholinergic Pathways Hyperintensities Scale for Pathological Aging](https://www.researchgate.net/publication/377752016_Using_ResNet_to_Utilize_4-class_T2-FLAIR_Slice_Classification_Based_on_the_Cholinergic_Pathways_Hyperintensities_Scale_for_Pathological_Aging) (2024 ISMRM & ISMRT Annual Meeting & Exhibition, Singapore, Digital Poster) 
 
 <!-- .slide vertical=true -->
 
